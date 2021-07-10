@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Abitha. I’m passionate about signal processing, semiconductor technology, writing, and swimming, among other things. I’m an Electronics and Communication Engineering student at VIT (class of 2021). 
+My name is Abitha. I’m passionate about VLSI, writing, and swimming, among other things. I’m an Electrical and Computer Engineering master’s student at UMich. 
 
 My primary account is at [GitLab](https://gitlab.com/abithakt). Check out my [personal website](https://abithakt.gitlab.io/) to learn more about me. :)
 
