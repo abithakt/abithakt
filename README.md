@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-My name is Abitha. I’m passionate about VLSI, writing, and swimming, among other things. I’m an Electrical and Computer Engineering master’s student at UMich. 
-
-My primary account is at [GitLab](https://gitlab.com/abithakt). Check out my [personal website](https://abithakt.gitlab.io/) to learn more about me. :)
+My name is Abitha. My primary account is at [GitLab](https://gitlab.com/abithakt). Check out my [personal website](https://abithakt.gitlab.io/) to learn more about me. :)
 
 <!--
 **abithakt/abithakt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
